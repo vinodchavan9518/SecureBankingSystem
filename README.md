@@ -27,7 +27,7 @@ Secure Banking System is a Java project used for banking operations.
 ## Output Screenshots
 
 ### Login Page
-![Login](images/login.jpeg)
+![Login](images/login.png)
 
 ### Dashboard
-![Dashboard](images/dashboard.jpeg)
+![Dashboard](images/dashboard.png)
